@@ -1,4 +1,4 @@
-# Sports Celebrity Image Classification
+# <html><h1>Sports Celebrity Image Classification</h1></html>
 
 ## Description
 
